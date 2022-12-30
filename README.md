@@ -1,1 +1,2 @@
-# project-04_email-verify
+# Email-verify design.
+Design of any online veryfying plateform.
